@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9227D008-EA4C-1A4C-68B8-96FA09893745}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallSurface.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PaddleDriverScript.cs" Line="26" Column="17" />
+      <File FileName="Assets/Scripts/SpringScript.cs" />
+      <File FileName="Assets/Scripts/BounceBackBumper.cs" Line="9" Column="24" />
+      <File FileName="Assets/Scripts/DZscript.cs" />
+      <File FileName="Assets/Scripts/BallSurface.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/FlashySpot.cs" Line="16" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="284516a9-12c6-4f7d-bcc5-b7335885632e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
